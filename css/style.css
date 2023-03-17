@@ -1,0 +1,44 @@
+
+
+
+.header, .hero, .body, .bar, .footer{
+	background: #FFAEC9;
+	margin-bottom: 10px;
+}
+
+.box{
+	margin: 10px 0;
+	min-height: 80px;
+	font-size: 40px;
+	font-weight: 700;
+	background: #99D9EA;
+	text-align: center;
+	border: 10px solid #22B14C;
+}
+.box2{
+	color: white;
+	background: #4E02C6;
+	border: 10px solid #C8F219;
+}
+.g-box{
+	height: 100vh;
+}
+
+.red{
+	font-size: 50px;
+	height: 120px;
+	background: red;
+}
+.red2{
+	background: red;
+}
+
+.five{
+	font-size: 50px;
+	height: 120px;
+}
+.footer{
+	margin-bottom: 0;
+}
+
+
